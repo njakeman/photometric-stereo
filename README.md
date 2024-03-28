@@ -1,6 +1,8 @@
 # Uncalibrated Photometric Stereo
 
 This script was generated through iterations with Chat-GPT 4 (27/03/2024).
+I was curious to see what sort of results could be acheived *without* absolute light directions.
+There are a lot of caveats regarding absolute accuracy in play here, the surface must be lambertian.
 
 The conda environment used sucessfully locally is at Python 3.10.14 with requirements found in the associated txt file.
 
